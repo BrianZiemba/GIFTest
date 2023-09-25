@@ -1,5 +1,5 @@
 # GIFTest
-Creates a Gif from a source of image files from specified directory
+Creates a GIF from a source of image files from a specified directory, or batch processing of subdirectories in a specified parent directory.
 Can specify: directory where sources image files are, name of gif and speed of animation in ms.
 
 For MacOS: Goto Python.org, download and install, then run main_mac.py.  If it gives you an error trying running the following command in a terminal:
