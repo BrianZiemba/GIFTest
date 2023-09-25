@@ -6,3 +6,5 @@ For MacOS: Goto Python.org, download and install, then run main_mac.py.  If it g
 python -m pip install Pillow
 
 Remarks: When asked, "include all subdirectories?" please answer with true or false.
+
+The reason this script is named GIFTest, is because this is my first python program with a specific purpose - I was testing to see if I had gained enough proficiency to write a working program.
