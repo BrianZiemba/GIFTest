@@ -1,4 +1,4 @@
-# GIFTest
+# GIFTest (work in progress, stay tuned!)
 Creates a GIF from a source of image files from a specified directory, or batch processing of subdirectories in a specified parent directory.
 Can specify: directory where sources image files are, name of gif and speed of animation in ms.
 
